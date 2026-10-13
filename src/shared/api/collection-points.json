@@ -1,0 +1,687 @@
+[
+  {
+    "name": "EcoEstação Imbiribeira",
+    "type": "Ecoestação / PEV",
+    "city": "Recife",
+    "neighborhood": "Imbiribeira",
+    "address": "Av. Mascarenhas de Morais, ao lado do Viaduto Tancredo Neves",
+    "acceptedWaste": [
+      "papel",
+      "plastico",
+      "metal",
+      "vidro",
+      "residuos de construcao civil",
+      "volumosos",
+      "poda"
+    ],
+    "restrictions": [
+      "Resíduos hospitalares",
+      "Lixo industrial",
+      "Equipamentos eletroeletrônicos"
+    ],
+    "hours": "Segunda a sábado, das 8h às 16h",
+    "isFree": true,
+    "verificationDate": "2026-10-12",
+    "source": "Prefeitura do Recife (Emlurb)",
+    "status": "verificado",
+    "latitude": -8.1135,
+    "longitude": -34.9082,
+    "id": 1
+  },
+  {
+    "name": "EcoEstação Arruda",
+    "type": "Ecoestação / PEV",
+    "city": "Recife",
+    "neighborhood": "Arruda",
+    "address": "Av. Prof. José dos Anjos, s/n",
+    "acceptedWaste": [
+      "papel",
+      "plastico",
+      "metal",
+      "vidro",
+      "residuos de construcao civil",
+      "volumosos",
+      "poda"
+    ],
+    "restrictions": [
+      "Resíduos hospitalares",
+      "Lixo industrial",
+      "Equipamentos eletroeletrônicos"
+    ],
+    "hours": "Segunda a sábado, das 8h às 16h",
+    "isFree": true,
+    "verificationDate": "2026-10-12",
+    "source": "Prefeitura do Recife (Emlurb)",
+    "status": "verificado",
+    "latitude": -8.0284,
+    "longitude": -34.8851,
+    "id": 2
+  },
+  {
+    "name": "EcoEstação Ibura",
+    "type": "Ecoestação / PEV",
+    "city": "Recife",
+    "neighborhood": "Ibura",
+    "address": "Rua Rio Tapado com a BR-101 (Ibura de Baixo)",
+    "acceptedWaste": [
+      "papel",
+      "plastico",
+      "metal",
+      "vidro",
+      "residuos de construcao civil",
+      "volumosos",
+      "poda"
+    ],
+    "restrictions": [
+      "Resíduos hospitalares",
+      "Lixo industrial",
+      "Equipamentos eletroeletrônicos"
+    ],
+    "hours": "Segunda a sábado, das 8h às 16h",
+    "isFree": true,
+    "verificationDate": "2026-10-12",
+    "source": "Prefeitura do Recife (Emlurb)",
+    "status": "verificado",
+    "latitude": -8.1312,
+    "longitude": -34.9324,
+    "id": 3
+  },
+  {
+    "name": "EcoEstação Cohab",
+    "type": "Ecoestação / PEV",
+    "city": "Recife",
+    "neighborhood": "Cohab",
+    "address": "Esquina da Av. Rio Largo com a Av. Santos",
+    "acceptedWaste": [
+      "papel",
+      "plastico",
+      "metal",
+      "vidro",
+      "residuos de construcao civil",
+      "volumosos",
+      "poda"
+    ],
+    "restrictions": [
+      "Resíduos hospitalares",
+      "Lixo industrial",
+      "Equipamentos eletroeletrônicos"
+    ],
+    "hours": "Segunda a sábado, das 8h às 16h",
+    "isFree": true,
+    "verificationDate": "2026-10-12",
+    "source": "Prefeitura do Recife (Emlurb)",
+    "status": "verificado",
+    "latitude": -8.1256,
+    "longitude": -34.9251,
+    "id": 4
+  },
+  {
+    "name": "EcoEstação Totó",
+    "type": "Ecoestação / PEV",
+    "city": "Recife",
+    "neighborhood": "Totó",
+    "address": "Esquina da Rua Onze de Agosto com a Rua Nelson de Sena",
+    "acceptedWaste": [
+      "papel",
+      "plastico",
+      "metal",
+      "vidro",
+      "residuos de construcao civil",
+      "volumosos",
+      "poda"
+    ],
+    "restrictions": [
+      "Resíduos hospitalares",
+      "Lixo industrial",
+      "Equipamentos eletroeletrônicos"
+    ],
+    "hours": "Segunda a sábado, das 8h às 16h",
+    "isFree": true,
+    "verificationDate": "2026-10-12",
+    "source": "Prefeitura do Recife (Emlurb)",
+    "status": "verificado",
+    "latitude": -8.0821,
+    "longitude": -34.9453,
+    "id": 5
+  },
+  {
+    "name": "EcoEstação Torrões",
+    "type": "Ecoestação / PEV",
+    "city": "Recife",
+    "neighborhood": "Torrões",
+    "address": "Rua Maestro Jones Jhonsson, s/n",
+    "acceptedWaste": [
+      "papel",
+      "plastico",
+      "metal",
+      "vidro",
+      "residuos de construcao civil",
+      "volumosos",
+      "poda"
+    ],
+    "restrictions": [
+      "Resíduos hospitalares",
+      "Lixo industrial",
+      "Equipamentos eletroeletrônicos"
+    ],
+    "hours": "Segunda a sábado, das 8h às 16h",
+    "isFree": true,
+    "verificationDate": "2026-10-12",
+    "source": "Prefeitura do Recife (Emlurb)",
+    "status": "verificado",
+    "latitude": -8.0512,
+    "longitude": -34.9274,
+    "id": 6
+  },
+  {
+    "name": "EcoEstação Campo Grande",
+    "type": "Ecoestação / PEV",
+    "city": "Recife",
+    "neighborhood": "Campo Grande",
+    "address": "Av. Agamenon Magalhães com a Rua Odorico Mendes",
+    "acceptedWaste": [
+      "papel",
+      "plastico",
+      "metal",
+      "vidro",
+      "residuos de construcao civil",
+      "volumosos",
+      "poda"
+    ],
+    "restrictions": [
+      "Resíduos hospitalares",
+      "Lixo industrial",
+      "Equipamentos eletroeletrônicos"
+    ],
+    "hours": "Segunda a sábado, das 8h às 16h",
+    "isFree": true,
+    "verificationDate": "2026-10-12",
+    "source": "Prefeitura do Recife (Emlurb)",
+    "status": "verificado",
+    "latitude": -8.0354,
+    "longitude": -34.8832,
+    "id": 7
+  },
+  {
+    "name": "EcoEstação Torre",
+    "type": "Ecoestação / PEV",
+    "city": "Recife",
+    "neighborhood": "Torre",
+    "address": "Av. Ciclovia República da Argélia (Comunidade Santa Luzia)",
+    "acceptedWaste": [
+      "papel",
+      "plastico",
+      "metal",
+      "vidro",
+      "residuos de construcao civil",
+      "volumosos",
+      "poda"
+    ],
+    "restrictions": [
+      "Resíduos hospitalares",
+      "Lixo industrial",
+      "Equipamentos eletroeletrônicos"
+    ],
+    "hours": "Segunda a sábado, das 8h às 16h",
+    "isFree": true,
+    "verificationDate": "2026-10-12",
+    "source": "Prefeitura do Recife (Emlurb)",
+    "status": "verificado",
+    "latitude": -8.0478,
+    "longitude": -34.9031,
+    "id": 8
+  },
+  {
+    "name": "EcoNúcleo Barbalho",
+    "type": "EcoNúcleo / PEV",
+    "city": "Recife",
+    "neighborhood": "Iputinga",
+    "address": "Estrada do Barbalho, s/n",
+    "acceptedWaste": [
+      "papel",
+      "plastico",
+      "metal",
+      "vidro",
+      "residuos de construcao civil",
+      "volumosos",
+      "poda"
+    ],
+    "restrictions": [
+      "Resíduos hospitalares",
+      "Lixo industrial",
+      "Equipamentos eletroeletrônicos"
+    ],
+    "hours": "Segunda a sábado, das 8h às 16h",
+    "isFree": true,
+    "verificationDate": "2026-10-12",
+    "source": "Prefeitura do Recife (Emlurb)",
+    "status": "verificado",
+    "latitude": -8.0392,
+    "longitude": -34.9351,
+    "id": 9
+  },
+  {
+    "name": "EcoNúcleo Via Mangue",
+    "type": "EcoNúcleo / PEV",
+    "city": "Recife",
+    "neighborhood": "Pina",
+    "address": "Rua Manoel de Brito, s/n",
+    "acceptedWaste": [
+      "papel",
+      "plastico",
+      "metal",
+      "vidro",
+      "residuos de construcao civil",
+      "volumosos",
+      "poda"
+    ],
+    "restrictions": [
+      "Resíduos hospitalares",
+      "Lixo industrial",
+      "Equipamentos eletroeletrônicos"
+    ],
+    "hours": "Segunda a sábado, das 8h às 16h",
+    "isFree": true,
+    "verificationDate": "2026-10-12",
+    "source": "Prefeitura do Recife (Emlurb)",
+    "status": "verificado",
+    "latitude": -8.0924,
+    "longitude": -34.8912,
+    "id": 10
+  },
+  {
+    "name": "Shopping Patteo Olinda (Retorna Machine / Vale Luz)",
+    "type": "PEV / Máquina de Autoatendimento",
+    "city": "Olinda",
+    "neighborhood": "Casa Caiada",
+    "address": "Rua Carmelita Soares Muniz de Araújo, 225 - Piso L3",
+    "acceptedWaste": [
+      "plastico (pet)",
+      "aluminio",
+      "latas de aco",
+      "tetrapak",
+      "eletronicos de pequeno porte"
+    ],
+    "restrictions": [
+      "Resíduos volumosos",
+      "Vidro quebrado",
+      "Lixo orgânico"
+    ],
+    "hours": "Segunda a sábado das 9h às 22h, domingos das 12h às 21h",
+    "isFree": true,
+    "verificationDate": "2026-10-12",
+    "source": "Neoenergia Pernambuco / Shopping Patteo",
+    "status": "verificado",
+    "latitude": -8.0051,
+    "longitude": -34.8512,
+    "id": 11
+  },
+  {
+    "name": "Shopping Guararapes (Ecopontos / Repense Reuse / Vale Luz)",
+    "type": "Ecoponto Multisserviços",
+    "city": "Jaboatão dos Guararapes",
+    "neighborhood": "Piedade",
+    "address": "Av. Barreto de Menezes, 800 (Portarias A, C, D, E e Praça de Alimentação)",
+    "acceptedWaste": [
+      "papel",
+      "plastico",
+      "metal",
+      "vidro",
+      "oleo de cozinha",
+      "eletronicos",
+      "pilhas",
+      "baterias",
+      "roupas e calcados (textil)"
+    ],
+    "restrictions": [
+      "Resíduos industriais",
+      "Entulho de obras"
+    ],
+    "hours": "Segunda a sábado das 9h às 22h, domingos das 12h às 21h",
+    "isFree": true,
+    "verificationDate": "2026-10-12",
+    "source": "Shopping Guararapes / Neoenergia Pernambuco / Humana Brasil",
+    "status": "verificado",
+    "latitude": -8.1789,
+    "longitude": -34.9213,
+    "id": 12
+  },
+  {
+    "name": "Camará Shopping (Retorna Machine / Vale Luz)",
+    "type": "PEV / Máquina de Autoatendimento",
+    "city": "Camaragibe",
+    "neighborhood": "Vila da Fábrica",
+    "address": "R. Manoel Honorato da Costa, 555",
+    "acceptedWaste": [
+      "plastico (pet)",
+      "aluminio",
+      "latas de aco",
+      "tetrapak"
+    ],
+    "restrictions": [
+      "Papelão volumoso",
+      "Vidro",
+      "Resíduos orgânicos"
+    ],
+    "hours": "Segunda a sábado das 10h às 22h, domingos das 12h às 21h",
+    "isFree": true,
+    "verificationDate": "2026-10-12",
+    "source": "Neoenergia Pernambuco / Retorna Machine",
+    "status": "verificado",
+    "latitude": -8.0234,
+    "longitude": -34.9812,
+    "id": 13
+  },
+  {
+    "name": "Centro Municipal de Coleta Seletiva de Camaragibe",
+    "type": "Centro de Coleta Seletiva",
+    "city": "Camaragibe",
+    "neighborhood": "Alberto Maia",
+    "address": "Bairro de Alberto Maia, Camaragibe - PE",
+    "acceptedWaste": [
+      "papel",
+      "papelao",
+      "plastico",
+      "metal",
+      "vidro"
+    ],
+    "restrictions": [
+      "Resíduos hospitalares",
+      "Lixo industrial"
+    ],
+    "hours": "Segunda a sexta, das 8h às 17h",
+    "isFree": true,
+    "verificationDate": "2026-10-12",
+    "source": "Prefeitura de Camaragibe",
+    "status": "verificado",
+    "latitude": -8.0189,
+    "longitude": -34.9754,
+    "id": 14
+  },
+  {
+    "name": "UTR Paulista (Unidade de Tratamento de Resíduos)",
+    "type": "Unidade de Tratamento e Destinação",
+    "city": "Paulista",
+    "neighborhood": "Mirueira",
+    "address": "Rua Castro Alves, 90",
+    "acceptedWaste": [
+      "residuos reciclaveis industriais e comerciais",
+      "papel",
+      "plastico",
+      "metal"
+    ],
+    "restrictions": [
+      "Resíduos hospitalares infectantes sem autorização prévia"
+    ],
+    "hours": "Segunda a sexta, das 8h às 17h",
+    "isFree": false,
+    "verificationDate": "2026-10-12",
+    "source": "UTR Paulista / Licenciamento Ambiental",
+    "status": "verificado",
+    "latitude": -7.9351,
+    "longitude": -34.8721,
+    "id": 15
+  },
+  {
+    "name": "Ferreira Costa Imbiribeira (Retorna Machine / Vale Luz)",
+    "type": "PEV / Máquina de Autoatendimento",
+    "city": "Recife",
+    "neighborhood": "Imbiribeira",
+    "address": "Av. Mal. Mascarenhas Morais, 2967",
+    "acceptedWaste": [
+      "plastico (pet)",
+      "aluminio",
+      "latas de aco",
+      "tetrapak",
+      "oleo de cozinha usado"
+    ],
+    "restrictions": [
+      "Entulho",
+      "Materiais volumosos"
+    ],
+    "hours": "Segunda a sábado das 8h às 20h, domingos das 9h às 18h",
+    "isFree": true,
+    "verificationDate": "2026-10-12",
+    "source": "Neoenergia Pernambuco",
+    "status": "verificado",
+    "latitude": -8.1098,
+    "longitude": -34.9054,
+    "id": 16
+  },
+  {
+    "name": "Ferreira Costa Tamarineira (Retorna Machine / Vale Luz)",
+    "type": "PEV / Máquina de Autoatendimento",
+    "city": "Recife",
+    "neighborhood": "Tamarineira",
+    "address": "Rua Cônego Barata, 275",
+    "acceptedWaste": [
+      "plastico (pet)",
+      "aluminio",
+      "latas de aco",
+      "tetrapak",
+      "oleo de cozinha usado"
+    ],
+    "restrictions": [
+      "Entulho",
+      "Materiais volumosos"
+    ],
+    "hours": "Segunda a sábado das 8h às 20h, domingos das 9h às 18h",
+    "isFree": true,
+    "verificationDate": "2026-10-12",
+    "source": "Neoenergia Pernambuco",
+    "status": "verificado",
+    "latitude": -8.0345,
+    "longitude": -34.9012,
+    "id": 17
+  },
+  {
+    "name": "Shopping Boa Vista (Retorna Machine / Vale Luz)",
+    "type": "PEV / Máquina de Autoatendimento",
+    "city": "Recife",
+    "neighborhood": "Boa Vista",
+    "address": "Rua do Giriquiti, 48",
+    "acceptedWaste": [
+      "plastico (pet)",
+      "aluminio",
+      "latas de aco",
+      "tetrapak"
+    ],
+    "restrictions": [
+      "Entulho",
+      "Vidro quebrado",
+      "Resíduos orgânicos"
+    ],
+    "hours": "Segunda a sábado das 9h às 21h, domingos das 11h às 19h",
+    "isFree": true,
+    "verificationDate": "2026-10-12",
+    "source": "Neoenergia Pernambuco",
+    "status": "verificado",
+    "latitude": -8.0587,
+    "longitude": -34.8912,
+    "id": 18
+  },
+  {
+    "name": "Shopping Recife (Retorna Machine / Vale Luz)",
+    "type": "PEV / Máquina de Autoatendimento",
+    "city": "Recife",
+    "neighborhood": "Boa Viagem",
+    "address": "Rua Padre Carapuceiro, 777",
+    "acceptedWaste": [
+      "plastico (pet)",
+      "aluminio",
+      "latas de aco",
+      "tetrapak"
+    ],
+    "restrictions": [
+      "Entulho",
+      "Vidro",
+      "Resíduos orgânicos"
+    ],
+    "hours": "Segunda a sábado das 10h às 22h, domingos das 12h às 21h",
+    "isFree": true,
+    "verificationDate": "2026-10-12",
+    "source": "Neoenergia Pernambuco",
+    "status": "verificado",
+    "latitude": -8.1189,
+    "longitude": -34.9034,
+    "id": 19
+  },
+  {
+    "name": "Shopping RioMar Recife (Retorna Machine / Vale Luz)",
+    "type": "PEV / Máquina de Autoatendimento",
+    "city": "Recife",
+    "neighborhood": "Pina",
+    "address": "Av. República do Líbano, 251 - Piso Térreo (próximo aos Correios)",
+    "acceptedWaste": [
+      "plastico (pet)",
+      "aluminio",
+      "latas de aco",
+      "tetrapak"
+    ],
+    "restrictions": [
+      "Entulho",
+      "Vidro",
+      "Resíduos orgânicos"
+    ],
+    "hours": "Segunda a sábado das 10h às 22h, domingos das 12h às 21h",
+    "isFree": true,
+    "verificationDate": "2026-10-12",
+    "source": "Neoenergia Pernambuco",
+    "status": "verificado",
+    "latitude": -8.0856,
+    "longitude": -34.8878,
+    "id": 20
+  },
+  {
+    "name": "Container Vale Luz Jaqueira",
+    "type": "Posto Fixo de Coleta / Vale Luz",
+    "city": "Recife",
+    "neighborhood": "Jaqueira",
+    "address": "Praça Souto Filho, s/n",
+    "acceptedWaste": [
+      "papel",
+      "papelao",
+      "plastico",
+      "metal",
+      "vidro",
+      "oleo de cozinha usado",
+      "eletronicos",
+      "baterias"
+    ],
+    "restrictions": [
+      "Entulho de construção",
+      "Restos de poda"
+    ],
+    "hours": "Terça a domingo, das 8h às 17h",
+    "isFree": true,
+    "verificationDate": "2026-10-12",
+    "source": "Neoenergia Pernambuco",
+    "status": "verificado",
+    "latitude": -8.0361,
+    "longitude": -34.9015,
+    "id": 21
+  },
+  {
+    "name": "Container Vale Luz Madalena",
+    "type": "Posto Fixo de Coleta / Vale Luz",
+    "city": "Recife",
+    "neighborhood": "Madalena",
+    "address": "Rua Carlos Gomes, 50 (Ao lado da loja Neoenergia)",
+    "acceptedWaste": [
+      "papel",
+      "papelao",
+      "plastico",
+      "metal",
+      "vidro",
+      "oleo de cozinha usado",
+      "eletronicos",
+      "baterias"
+    ],
+    "restrictions": [
+      "Entulho de construção",
+      "Restos de poda"
+    ],
+    "hours": "Segunda a sexta, das 8h às 16h",
+    "isFree": true,
+    "verificationDate": "2026-10-12",
+    "source": "Neoenergia Pernambuco",
+    "status": "verificado",
+    "latitude": -8.0542,
+    "longitude": -34.9078,
+    "id": 22
+  },
+  {
+    "name": "Retorna Machine Casa Zero",
+    "type": "PEV / Máquina de Autoatendimento",
+    "city": "Recife",
+    "neighborhood": "Recife Antigo",
+    "address": "Rua Bom Jesus, 227",
+    "acceptedWaste": [
+      "plastico (pet)",
+      "aluminio",
+      "latas de aco",
+      "tetrapak"
+    ],
+    "restrictions": [
+      "Papelão volumoso",
+      "Vidro"
+    ],
+    "hours": "Terça a domingo, das 10h às 19h",
+    "isFree": true,
+    "verificationDate": "2026-10-12",
+    "source": "Neoenergia Pernambuco / Casa Zero",
+    "status": "verificado",
+    "latitude": -8.0625,
+    "longitude": -34.8712,
+    "id": 23
+  },
+  {
+    "name": "Contêiner Têxtil Repense Reuse - Praça 12 de Março",
+    "type": "PEV / Resíduos Têxteis",
+    "city": "Olinda",
+    "neighborhood": "Bairro Novo",
+    "address": "Praça 12 de Março, s/n",
+    "acceptedWaste": [
+      "roupas",
+      "calcados",
+      "tecidos"
+    ],
+    "restrictions": [
+      "Plásticos",
+      "Vidros",
+      "Lixo orgânico"
+    ],
+    "hours": "Acesso público 24h",
+    "isFree": true,
+    "verificationDate": "2026-10-12",
+    "source": "Prefeitura de Olinda / Humana Brasil",
+    "status": "verificado",
+    "latitude": -8.0089,
+    "longitude": -34.8485,
+    "id": 24
+  },
+  {
+    "name": "PEV Green Eletron - Casas Bahia Casa Amarela",
+    "type": "PEV / Eletroeletrônicos e Baterias",
+    "city": "Recife",
+    "neighborhood": "Casa Amarela",
+    "address": "Rua Padre Lemos, 350",
+    "acceptedWaste": [
+      "eletronicos de pequeno e medio porte",
+      "pilhas",
+      "baterias"
+    ],
+    "restrictions": [
+      "Eletrodomésticos grandes (geladeiras, fogões)",
+      "Lixo comum"
+    ],
+    "hours": "Segunda a sábado, das 8h às 18h",
+    "isFree": true,
+    "verificationDate": "2026-10-12",
+    "source": "Green Eletron / Casas Bahia",
+    "status": "verificado",
+    "latitude": -8.0261,
+    "longitude": -34.9142,
+    "id": 25
+  }
+]
