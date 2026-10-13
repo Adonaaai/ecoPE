@@ -1,0 +1,65 @@
+.button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-1);
+  min-height: 48px;
+  padding: 12px var(--space-3);
+  border: 2px solid transparent;
+  border-radius: var(--radius-medium);
+  font-weight: 600;
+  font-size: 1rem;
+  line-height: 1.2;
+  text-align: center;
+  text-decoration: none;
+  transition: background-color 0.2s, color 0.2s, border-color 0.2s;
+}
+
+.button-primary {
+  background-color: var(--color-action-blue);
+  color: var(--color-white);
+}
+
+.button-primary:hover {
+  background-color: var(--color-action-blue-escuro);
+}
+
+.button-secondary {
+  background-color: transparent;
+  border-color: var(--color-action-blue);
+  color: var(--color-action-blue);
+}
+
+.button-secondary:hover {
+  background-color: var(--color-action-blue);
+  color: var(--color-white);
+}
+
+.button-green {
+  background-color: var(--color-green);
+  color: var(--color-deep-blue);
+}
+
+.button-green:hover {
+  background-color: #7cc45a;
+}
+
+.button-small {
+  min-height: 40px;
+  padding: 8px var(--space-2);
+  font-size: 0.9375rem;
+}
+
+.button:disabled,
+.button[aria-disabled="true"] {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.arrow-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-weight: 600;
+  color: var(--color-action-blue);
+}

@@ -1,0 +1,46 @@
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.tag {
+  display: inline-block;
+  padding: 4px 12px;
+  border-radius: 999px;
+  background-color: var(--color-background-light);
+  border: 1px solid var(--color-border);
+  font-size: 0.8125rem;
+  font-weight: 600;
+  color: var(--color-deep-blue);
+}
+
+.recyclable-tag {
+  background-color: #e6f3df;
+  border-color: #c3e2b4;
+  color: #245e17;
+}
+
+.organic-tag {
+  background-color: #eef3da;
+  border-color: #d6e2aa;
+  color: #4a5a12;
+}
+
+.electronic-tag {
+  background-color: #dff3f3;
+  border-color: #b3e0e0;
+  color: #00585a;
+}
+
+.battery-tag {
+  background-color: #fdf0dc;
+  border-color: #f4d6a5;
+  color: #7a4a00;
+}
+
+.construction-tag {
+  background-color: #e8edf0;
+  border-color: #cdd7dc;
+  color: #33444d;
+}
