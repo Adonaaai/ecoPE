@@ -25,7 +25,7 @@ O EcoPE é uma plataforma digital que auxilia os moradores de Pernambuco a encon
 - Localização automática do usuário.
 - Maior quantidade de pontos (atualmente: 25 em toda RMR).
 
-## Tecnologias
+## Tecnologias(Tech stack):
 - ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square)
 - ![CSS Badge](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=flat-square)
 - ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
