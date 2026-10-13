@@ -34,3 +34,10 @@ O EcoPE é uma plataforma digital que auxilia os moradores de Pernambuco a encon
 
 ## Objetivo do MVP
 Disponibilizar uma versão inicial (webpage) em que permita aos usuários consultar os pontos de coleta na RMR (Região Metropolitana do Recife) e obter informações sobre o descarte correto de resíduos.
+
+## Uso de Inteligência artificial
+A IA neste projeto foi usada de modo inteligente com fins de optimização de tempo e foi usada em:
+- **Ciência de dados:** dados de pontos de coleta foram tratados em um arquivo JSON no projeto pelo Google Gemini.
+- **Aprimoração na estilização:** toda estrutura da pasta styles foi desenvolvida por nos, porém, aprimorada com efeitos hovers, sombreamento e correção de erros pelo Claude Sonnet 5.5 FREE.
+- **Aceleração de tarefas:** O projeto foi totalmente desenvolvido na IDE Visual Studio Code, uso ativo do Copilot FREE para o uso de tarefas repetitivas e formatação de código.
+- **Identidade Visual:** Usamos do ChatGPT FREE para auxilio na criação de um guia visual do Site e Logo do projeto
