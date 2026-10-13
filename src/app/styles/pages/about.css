@@ -1,0 +1,114 @@
+.about-page .page-title {
+  padding-block: clamp(var(--space-6), 8vw, var(--space-8));
+  background: linear-gradient(135deg, var(--color-background-light) 0%, #edf8f8 100%);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.about-page .page-title .container {
+  max-width: 980px;
+}
+
+.about-page .eyebrow {
+  display: inline-block;
+  margin-bottom: var(--space-2);
+  font-size: 0.8125rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--color-green-dark);
+}
+
+.about-page .page-title h1 {
+  max-width: 880px;
+  font-size: clamp(2.2rem, 4vw, 4rem);
+  line-height: 1.08;
+  letter-spacing: -0.04em;
+}
+
+.about-page .page-title p {
+  max-width: 760px;
+  margin-top: var(--space-2);
+  font-size: 1.125rem;
+  color: var(--color-text-muted);
+}
+
+.about-page .container.about-content {
+  max-width: 1020px;
+  margin-inline: auto;
+  padding-block: var(--space-8);
+}
+
+.about-page .section-light .container.about-content {
+  padding-block: 0;
+}
+
+.about-page .about-content > h2 {
+  margin-bottom: var(--space-3);
+  font-size: clamp(1.8rem, 2.3vw, 2.5rem);
+}
+
+.about-page .about-content > p {
+  max-width: 75ch;
+}
+
+.about-page .values {
+  margin-top: var(--space-4);
+}
+
+.about-page .values .card {
+  min-height: 100%;
+}
+
+.about-page .card > p {
+  color: var(--color-text-muted);
+}
+
+.about-page .card ul {
+  display: grid;
+  gap: 6px;
+  margin-top: var(--space-1);
+  padding-left: 1.25rem;
+  list-style: disc;
+}
+
+.about-page .card li::marker {
+  color: var(--color-green-dark);
+}
+
+.about-page .card code {
+  padding: 0.1em 0.35em;
+  border-radius: 4px;
+  background-color: var(--color-background-light);
+  color: var(--color-deep-blue);
+  font-size: 0.9em;
+  overflow-wrap: anywhere;
+}
+
+.about-page .simple-list {
+  margin-top: var(--space-3);
+  padding-left: 1.25rem;
+  list-style: disc;
+}
+
+.about-page .simple-list li {
+  margin-top: 0.75rem;
+  color: var(--color-text);
+}
+
+.about-page .simple-list li::marker {
+  color: var(--color-green-dark);
+}
+
+@media (max-width: 640px) {
+  .about-page .page-title {
+    padding-block: var(--space-6);
+  }
+
+  .about-page .container.about-content {
+    padding-block: var(--space-6);
+  }
+
+  .about-page .section-light .container.about-content {
+    padding-block: 0;
+  }
+}
