@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Manrope:wght@600;700;800&display=swap");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css");
+
+@import url("global/variables.css");
+@import url("global/normalize.css");
+@import url("global/reset.css");
+@import url("global/base.css");
+@import url("global/layout.css");
+
+@import url("elements/buttons.css");
+@import url("elements/cards.css");
+@import url("elements/forms.css");
+@import url("elements/tags.css");
+
+@import url("sections/header.css");
+@import url("sections/hero.css");
+@import url("sections/steps.css");
+@import url("sections/map.css");
+@import url("sections/footer.css");
+
+@import url("pages/index.css");
+@import url("pages/guide.css");
+@import url("pages/about.css");
+@import url("pages/404.css");
