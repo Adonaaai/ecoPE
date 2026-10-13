@@ -29,8 +29,8 @@ O EcoPE é uma plataforma digital que auxilia os moradores de Pernambuco a encon
 - ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square)
 - ![CSS Badge](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=flat-square)
 - ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
-- ![Leaflet Badge](https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=fff&style=flat-square)(mapa interativo)
-- ![OpenStreetMap Badge](https://img.shields.io/badge/OpenStreetMap-7EBC6F?logo=openstreetmap&logoColor=fff&style=flat-square) (dados do mapa)
+- ![Leaflet Badge](https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=fff&style=flat-square)  (mapa interativo)
+- ![OpenStreetMap Badge](https://img.shields.io/badge/OpenStreetMap-7EBC6F?logo=openstreetmap&logoColor=fff&style=flat-square)  (dados do mapa)
 
 ## Objetivo do MVP
 Disponibilizar uma versão inicial (webpage) em que permita aos usuários consultar os pontos de coleta na RMR (Região Metropolitana do Recife) e obter informações sobre o descarte correto de resíduos.
