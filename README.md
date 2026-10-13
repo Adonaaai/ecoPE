@@ -5,6 +5,9 @@
 ## Acesse aqui - Github Pages
 https://adonaaai.github.io/ecoPE/
 
+## Contexto institucional
+O **EcoPE** é um solução digital concebida e desenvolvida no âmbito da **Maratona DevImpacto**. O projeto foi desenvolvido  para atender ao eixo de **Meio Ambiente** visando combater o descarte incorreto de resíduos em Pernambuco.
+
 ## Problema
 Descarte errado de resíduos e rejeitos pela falta de conhecimento de como separar o lixo e de pontos de coleta próximos.
 
