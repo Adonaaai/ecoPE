@@ -36,7 +36,7 @@ O EcoPE é uma plataforma digital que auxilia os moradores de Pernambuco a encon
 - ![OpenStreetMap Badge](https://img.shields.io/badge/OpenStreetMap-7EBC6F?logo=openstreetmap&logoColor=fff&style=flat-square)  (dados do mapa)
 
 ## Objetivo do MVP
-Disponibilizar uma versão inicial (webpage) em que permita aos usuários consultar os pontos de coleta na RMR (Região Metropolitana do Recife) e obter informações sobre o descarte correto de resíduos.
+Disponibilizar uma versão inicial em que permita aos usuários consultar os pontos de coleta na RMR (Região Metropolitana do Recife) e obter informações sobre o descarte correto de resíduos.
 
 ## Uso de Inteligência artificial
 A IA neste projeto foi usada de modo inteligente com fins de optimização de tempo e foi usada em:
