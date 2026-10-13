@@ -40,7 +40,7 @@ Disponibilizar uma versão inicial em que permita aos usuários consultar os pon
 
 ## Uso de Inteligência artificial
 A IA neste projeto foi usada de modo inteligente com fins de optimização de tempo e foi usada em:
-- **Ciência de dados:** dados de pontos de coleta foram tratados em um arquivo JSON no projeto pelo Google Gemini.
-- **Aprimoração na estilização:** toda estrutura da pasta styles foi desenvolvida por nos, porém, aprimorada com efeitos hovers, sombreamento e correção de erros pelo Claude Sonnet 5.5 FREE.
-- **Aceleração de tarefas:** O projeto foi totalmente desenvolvido na IDE Visual Studio Code, uso ativo do Copilot FREE para o uso de tarefas repetitivas e formatação de código.
-- **Identidade Visual:** Usamos do ChatGPT FREE para auxilio na criação de um guia visual do Site e Logo do projeto
+- **Ciência de dados:** dados de pontos de coleta foram tratados em um arquivo JSON no projeto pelo Google Gemini plano grátis.
+- **Aprimoração na estilização:** toda estrutura da pasta styles foi desenvolvida por nos, porém, aprimorada com efeitos hovers, sombreamento e correção de erros pelo Claude Sonnet 5.5 plano grátis.
+- **Aceleração de tarefas:** O projeto foi totalmente desenvolvido na IDE Visual Studio Code, uso ativo do Copilot plano grátis para o uso de tarefas repetitivas e formatação de código.
+- **Identidade Visual:** Usamos do ChatGPT plano grátis para auxilio na criação de um guia visual do Site e Logo do projeto
