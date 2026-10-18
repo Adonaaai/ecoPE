@@ -6,15 +6,15 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 
 const homeMarker = L.icon({
-    iconUrl: "../../../public/marcadorLocal.svg",
-    iconSize: [38, 95],
+    iconUrl: new URL("../../../public/marcadorLocal.svg", import.meta.url).href,
+    iconSize: [53, 110],
     iconAnchor: [22, 94],
     popupAnchor: [-3, -76]
 });
 
 const collectPointMarker = L.icon({
-    iconUrl: "../../../public/marcadorPontoColeta.svg",
-    iconSize: [38, 95],
+    iconUrl: new URL("../../../public/marcadorPontoColeta.svg", import.meta.url).href,
+    iconSize: [53, 110],
     iconAnchor: [22, 94],
     popupAnchor: [-3, -76]
 });
