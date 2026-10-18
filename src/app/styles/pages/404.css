@@ -1,3 +1,7 @@
+.not-found-page {
+  height: 100vh;
+}
+
 .not-found-page .error {
   display: flex;
   flex-direction: column;

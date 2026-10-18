@@ -19,4 +19,4 @@ const collectPointMarker = L.icon({
     popupAnchor: [-3, -76]
 });
 
-export default { map, homeMarker, collectPointMarker };
+export { map, homeMarker, collectPointMarker };
