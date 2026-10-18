@@ -1,4 +1,4 @@
-import map from "../shared/lib/leaflet.js";
+import {map, collectPointMarker} from "../shared/lib/leaflet.js";
 import collectionPoints from "../shared/api/collection-points.json" with { type: "json" };
 import { isWithinDistance } from "./isWithinDistance.js";
 
@@ -37,7 +37,7 @@ export const findNearbyCollectionPoints = (latitude, longitude, wasteType = "") 
     });
 
     matchingCollectionPoints.forEach((collectionPoint) => {
-        L.marker([collectionPoint.latitude, collectionPoint.longitude])
+        L.marker([collectionPoint.latitude, collectionPoint.longitude], { icon: collectPointMarker })
             .addTo(collectionPointMarkers)
             .bindPopup(`<b>${collectionPoint.name}</b><br>${collectionPoint.address}<br><strong>Materiais aceitos:</strong> ${collectionPoint.acceptedWaste.join(", ")}`);
     });

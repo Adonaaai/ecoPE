@@ -1,7 +1,6 @@
-import map from "../shared/lib/leaflet.js";
+import {map, homeMarker} from "../shared/lib/leaflet.js";
 import { findNearbyCollectionPoints } from "../controllers/findNearbyCollectionPoints.js";
 import "./navigation.js";
-
 
 const searchForm = document.querySelector(".home-search");
 const searchInput = document.getElementById("search-input");
@@ -53,7 +52,7 @@ searchForm?.addEventListener("submit", async (event) => {
         map.setView(coordinates, 13);
 
         if (!searchedLocationMarker) {
-            searchedLocationMarker = L.marker(coordinates).addTo(map);
+            searchedLocationMarker = L.marker(coordinates, { icon: homeMarker }).addTo(map);
         } else {
             searchedLocationMarker.setLatLng(coordinates);
         };
